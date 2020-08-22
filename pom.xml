@@ -6,6 +6,7 @@
 	<modules>
 		<module>eureka</module>
 		<module>system</module>
+		<module>gateway</module>
 
 
 	</modules>
@@ -56,11 +57,6 @@
 				<version>1.2.10</version>
 			</dependency>
 
-			<dependency>
-				<groupId>com.alibaba</groupId>
-				<artifactId>fastjson</artifactId>
-				<version>1.2.60</version>
-			</dependency>
 
 			<!-- 模板引擎freemarker -->
 			<dependency>
